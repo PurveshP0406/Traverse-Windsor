@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.926.0",
+    "express": "^4.17.1",
+    "react-router-dom": "^5.2.0"
+  }
+}

@@ -1,0 +1,22 @@
+
+[
+    {
+        "place_id":"56sfyagsa7s7",
+        "place_name":"Caesors",
+        "check-in":49,
+        "likes":45
+    },
+    {
+        "place_id":"56sfyagsa78w",
+        "place_name":"Riverfront",
+        "check-in":60,
+        "likes":15
+    },
+
+    {
+        "place_id":"56sfyausdsa78w",
+        "place_name":"Peace Fountain",
+        "check-in":15,
+        "likes":30
+    }
+]
