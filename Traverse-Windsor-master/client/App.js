@@ -29,7 +29,7 @@ const HomeRoute = () =>
   <Text style={styles.sectionTitle}>
     Traverse
   </Text>
-  <Text style={styles.sectionTitle}>
+  <Text style= {styles.sectionTitle}>
     Windsor
   </Text>
   <Image
